@@ -20,4 +20,4 @@ After that, you can go executing your ef commands.
 
 ----
 
-[^1]: Bug report on github: https://github.com/dotnet/AspNetCore.Docs/issues/23414.
+[^1]: Bug report on [GitHub](https://github.com/dotnet/AspNetCore.Docs/issues/23414)
