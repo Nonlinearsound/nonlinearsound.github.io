@@ -6,7 +6,7 @@ Generally, after you added your models to your code, you want to create the migr
 dotnet ef migrations add Init
 ```
 For that, the EF CLI tools need to be installed and they were up to a certain point, but they are not anymore. 
-At least at the time of writing this blog post, they are not - maybe Microsoft will add them back later.
+At least at the time of writing this blog post, they are not - maybe Microsoft will add them back at some point.
 
 ### The solution
 
