@@ -10,8 +10,10 @@ At least at the time of writing this blog post, they are not - maybe Microsoft w
 
 ### The solution
 
-So you need to install them manually, which you will be doing by executing this command:
+So you need to install them manually[^1], which you will be doing by executing this command:
 ```
 dotnet tool install --global dotnet-ef
 ```
 After that, you can go executing your ef commands.
+
+[^1]: Bug report on github: https://github.com/dotnet/AspNetCore.Docs/issues/23414.
